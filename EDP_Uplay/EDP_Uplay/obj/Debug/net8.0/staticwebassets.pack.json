@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nichk\\source\\repos\\EDP_Uplay\\EDP_Uplay\\wwwroot\\uploads\\1uHSpvcjfK.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1uHSpvcjfK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nichk\\source\\repos\\EDP_Uplay\\EDP_Uplay\\wwwroot\\uploads\\2XHmLz88n6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2XHmLz88n6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nichk\\source\\repos\\EDP_Uplay\\EDP_Uplay\\wwwroot\\uploads\\2oIFHcp3Ei.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2oIFHcp3Ei.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nichk\\source\\repos\\EDP_Uplay\\EDP_Uplay\\wwwroot\\uploads\\8nq-2BJea2.png",
+      "PackagePath": "staticwebassets\\uploads\\8nq-2BJea2.png"
+    },
+    {
+      "Id": "C:\\Users\\nichk\\source\\repos\\EDP_Uplay\\EDP_Uplay\\wwwroot\\uploads\\LNN82oy853.png",
+      "PackagePath": "staticwebassets\\uploads\\LNN82oy853.png"
+    },
+    {
+      "Id": "C:\\Users\\nichk\\source\\repos\\EDP_Uplay\\EDP_Uplay\\wwwroot\\uploads\\QTIlVe0TVf.jpg",
+      "PackagePath": "staticwebassets\\uploads\\QTIlVe0TVf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nichk\\source\\repos\\EDP_Uplay\\EDP_Uplay\\wwwroot\\uploads\\Vi7PM8Izh9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Vi7PM8Izh9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nichk\\source\\repos\\EDP_Uplay\\EDP_Uplay\\wwwroot\\uploads\\bvEpW6zgP9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bvEpW6zgP9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nichk\\source\\repos\\EDP_Uplay\\EDP_Uplay\\wwwroot\\uploads\\cHkcHS_YKM.png",
+      "PackagePath": "staticwebassets\\uploads\\cHkcHS_YKM.png"
+    },
+    {
+      "Id": "C:\\Users\\nichk\\source\\repos\\EDP_Uplay\\EDP_Uplay\\wwwroot\\uploads\\fpX79FXjjS.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fpX79FXjjS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nichk\\source\\repos\\EDP_Uplay\\EDP_Uplay\\wwwroot\\uploads\\h9Q6tRh41q.png",
+      "PackagePath": "staticwebassets\\uploads\\h9Q6tRh41q.png"
+    },
+    {
+      "Id": "C:\\Users\\nichk\\source\\repos\\EDP_Uplay\\EDP_Uplay\\wwwroot\\uploads\\oydZnEdjXz.png",
+      "PackagePath": "staticwebassets\\uploads\\oydZnEdjXz.png"
+    },
+    {
+      "Id": "C:\\Users\\nichk\\source\\repos\\EDP_Uplay\\EDP_Uplay\\wwwroot\\uploads\\yg-jhxXpfh.png",
+      "PackagePath": "staticwebassets\\uploads\\yg-jhxXpfh.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EDP_Uplay.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EDP_Uplay.props",
+      "PackagePath": "build\\EDP_Uplay.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EDP_Uplay.props",
+      "PackagePath": "buildMultiTargeting\\EDP_Uplay.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EDP_Uplay.props",
+      "PackagePath": "buildTransitive\\EDP_Uplay.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{2DB76E71-E0B1-49D2-865B-8A107F1AAF0F}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EDP_Uplay/Migrations/20240112112028_UserRole.Designer.cs">
+    <Files>
+      <File FileName="EDP_Uplay/Controllers/ActivityController.cs" />
+      <File FileName="EDP_Uplay/Controllers/FileController.cs" />
+      <File FileName="EDP_Uplay/Controllers/TicketController.cs" />
+      <File FileName="EDP_Uplay/Controllers/WeatherForecastController.cs" />
+      <File FileName="EDP_Uplay/Migrations/MyDbContextModelSnapshot.cs" />
+      <File FileName="EDP_Uplay/Models/Activity.cs" />
+      <File FileName="EDP_Uplay/Models/Cart.cs" />
+      <File FileName="EDP_Uplay/Models/RegisterRequest.cs" />
+      <File FileName="EDP_Uplay/Models/User.cs" />
+      <File FileName="EDP_Uplay/Properties/launchSettings.json" />
+      <File FileName="EDP_Uplay/appsettings.json" />
+      <File FileName="EDP_Uplay/EDP_Uplay.http" />
+      <File FileName="EDP_Uplay/appsettings.Development.json" />
+      <File FileName="EDP_Uplay/Migrations/20240112112028_UserRole.Designer.cs" Line="139" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EDP_Uplay" expanded="True">
+            <Node name="EDP_Uplay" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20240112112028_UserRole.cs" expanded="True">
+                  <Node name="20240112112028_UserRole.Designer.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EDP__Uplay PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
